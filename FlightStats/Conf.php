@@ -22,7 +22,7 @@ class FlightStats_Conf
      * @var array
      */
     private static $available_airports = [
-        'KBP' => 'Аэропорт Борисполя',
+        'KBP' => 'Аэропорт Борисполь',
     ];
 
     /**
